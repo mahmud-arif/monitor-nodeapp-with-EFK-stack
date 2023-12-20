@@ -1,0 +1,14 @@
+{
+    "Policy": {
+        "PolicyName": "AWSLoadBalancerControllerIAMPolicy",
+        "PolicyId": "ANPA53TT43UOLLSOL5AH2",
+        "Arn": "arn:aws:iam::952652061980:policy/AWSLoadBalancerControllerIAMPolicy",
+        "Path": "/",
+        "DefaultVersionId": "v1",
+        "AttachmentCount": 0,
+        "PermissionsBoundaryUsageCount": 0,
+        "IsAttachable": true,
+        "CreateDate": "2023-12-17T17:51:47+00:00",
+        "UpdateDate": "2023-12-17T17:51:47+00:00"
+    }
+}
